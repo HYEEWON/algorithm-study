@@ -13,7 +13,7 @@
 * 연결 리스트
 * 스택
 * 큐
-* 트리
+* [트리](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md)
   * 이진 트리
   * 힙
   * 우선순위 큐
