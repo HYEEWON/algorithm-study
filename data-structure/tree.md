@@ -1,4 +1,4 @@
-# 🌳 트리
+# 트리
 
 ## 1) 정의
 
@@ -26,7 +26,7 @@
 
 <br>
 
-# 🌳 이진 트리 (Binary Tree)
+# 이진 트리 (Binary Tree)
 
 ## 1) 정의
 
@@ -46,7 +46,7 @@
 
 <br>
 
-# 🌳 힙 (Heap)
+# 힙 (Heap)
 
 ## 1) 정의
 
@@ -73,7 +73,7 @@ PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder())
 
 <br>
 
-# 🌳 우선순위 큐 (Priority Queue)
+# 우선순위 큐 (Priority Queue)
 
 ## 1) 정의
 
@@ -84,7 +84,7 @@ PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder())
 
 <br>
 
-# 🌳 세그먼트 트리 (Segment Tree)
+# 세그먼트 트리 (Segment Tree)
 
 ## 1) 정의
 
@@ -141,7 +141,7 @@ public class Main {
 
 <br>
 
-# 🌳 트라이 트리 (Trie Tree)
+# 트라이 (Trie)
 
 ## 1) 정의
 
