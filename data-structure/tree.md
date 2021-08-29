@@ -19,16 +19,16 @@
 
 ## 3) 구현
 
-
 ![tree](https://user-images.githubusercontent.com/38900338/130806325-95537a03-fe8f-488f-807c-5fe80aa34e23.JPG)
-
 
 * 배열의 인덱스는 `1에서 시작`
 * 노드 N -> 왼쪽 자식 노드: 2 * N, 오른쪽 자식 노드: 2 * N + 1
 
 <br>
 
-# 🌳 이진 트리 (Binary Tree)
+# 이진 트리
+
+ (Binary Tree)
 
 ## 1) 정의
 
@@ -45,9 +45,6 @@
 * 전위 순회 (pre-order): 루트 -> 왼쪽 -> 오른쪽
 * 중위 순회 (in-order): 왼쪽 -> 루트 -> 오른쪽
 * 후위 순회 (post-order): 왼쪽 -> 오른쪽 -> 루트
-
-## 4) 구현
-
 
 <br>
 
