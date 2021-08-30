@@ -9,8 +9,10 @@
 * [그래프: 다익스트라](https://github.com/HYEEWON/algorithm-study/blob/main/graph/dijkstra.md)
 * [그래프: 벨만 포드](https://github.com/HYEEWON/algorithm-study/blob/main/graph/bellman-ford.md)
 * [그래프: 플로이드 와샬](https://github.com/HYEEWON/algorithm-study/blob/main/graph/floyd-warshall.md)
-* [트리: 최소 공통 조상](https://github.com/HYEEWON/algorithm-study/blob/main/tree/lca.md)
+* [그래프: 유니온 파인드](https://github.com/HYEEWON/algorithm-study/blob/main/graph/union-find.md)
+* [그래프: 위상 정렬](https://github.com/HYEEWON/algorithm-study/blob/main/graph/topological-sort.md)
 * [트리: 최소 신장 트리](https://github.com/HYEEWON/algorithm-study/blob/main/tree/mst.md)
+* [트리: 최소 공통 조상](https://github.com/HYEEWON/algorithm-study/blob/main/tree/lca.md)
 
 <br>
 
