@@ -57,4 +57,7 @@ for edge in edges:
     parents[e] = s
     sum_cost += edge.cost
 ```
+
+<br>
+
 ## 3) 프림 알고리즘
