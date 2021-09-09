@@ -66,11 +66,6 @@
 * 삽입: 트리의 가장 마지막에 삽입하여 힙 조건을 만족할 때까지 부모와 자식을 교환
 * 삭제: 루트를 삭제하고 트리의 가장 마지막 노드를 루트로 삽입, 힙 조건을 만족할 때까지 부모와 자식을 교환
 
-```java
-PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
-```
-
 <br>
 
 # 우선순위 큐 (Priority Queue)
@@ -81,6 +76,11 @@ PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder())
 * 데이터에 우선순위를 부여하여 우선순위가 높은 데이터부터 꺼내는 자료구조
 * 우선순위는 `Heap`을 통해 구현
 * 우선순위를 정해 데이터를 추가하고, 우선순위가 가장 높은 데이터를 삭제할 수 있음
+
+```java
+PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+```
 
 <br>
 
