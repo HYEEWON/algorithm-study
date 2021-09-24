@@ -6,13 +6,21 @@
 
 # 알고리즘
 
-* [그래프: 다익스트라](https://github.com/HYEEWON/algorithm-study/blob/main/graph/dijkstra.md)
-* [그래프: 벨만 포드](https://github.com/HYEEWON/algorithm-study/blob/main/graph/bellman-ford.md)
-* [그래프: 플로이드 와샬](https://github.com/HYEEWON/algorithm-study/blob/main/graph/floyd-warshall.md)
-* [그래프: 유니온 파인드](https://github.com/HYEEWON/algorithm-study/blob/main/graph/union-find.md)
-* [그래프: 위상 정렬](https://github.com/HYEEWON/algorithm-study/blob/main/graph/topological-sort.md)
-* [트리: 최소 신장 트리](https://github.com/HYEEWON/algorithm-study/blob/main/tree/mst.md)
-* [트리: 최소 공통 조상](https://github.com/HYEEWON/algorithm-study/blob/main/tree/lca.md)
+## 그래프
+* [다익스트라](https://github.com/HYEEWON/algorithm-study/blob/main/graph/dijkstra.md)
+* [벨만 포드](https://github.com/HYEEWON/algorithm-study/blob/main/graph/bellman-ford.md)
+* [플로이드 와샬](https://github.com/HYEEWON/algorithm-study/blob/main/graph/floyd-warshall.md)
+* [유니온 파인드](https://github.com/HYEEWON/algorithm-study/blob/main/graph/union-find.md)
+* [위상 정렬](https://github.com/HYEEWON/algorithm-study/blob/main/graph/topological-sort.md)
+
+## 트리
+* [인덱스 트리](https://github.com/HYEEWON/algorithm-study/blob/main/tree/index-tree.md)
+* [세그먼트 트리](https://github.com/HYEEWON/algorithm-study/blob/main/tree/segment-tree.md)
+* [최소 신장 트리(MST)](https://github.com/HYEEWON/algorithm-study/blob/main/tree/mst.md)
+* [최소 공통 조상(LCA)](https://github.com/HYEEWON/algorithm-study/blob/main/tree/lca.md)
+
+## 동적 계획법 / 이분 탐색
+* [가장 긴 증가하는 부분 수열(LIS)](https://github.com/HYEEWON/algorithm-study/blob/main/longest-increasing-subsequence/lis.md)
 
 <br>
 
