@@ -33,6 +33,5 @@
   * [이진 트리](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md#이진-트리-Binary-Tree)
   * [힙](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md#힙-Heap)
   * [우선순위 큐](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md#우선순위-큐-Priority-Queue)
-  * [세그먼트 트리](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md#세그먼트-트리-Segment-Tree)
   * [트라이](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md#트라이-Trie)
 * 그래프
