@@ -35,6 +35,7 @@
 * [세그먼트 트리](https://github.com/HYEEWON/algorithm-study/blob/main/tree/segment-tree.md)
 * [최소 신장 트리(MST)](https://github.com/HYEEWON/algorithm-study/blob/main/tree/mst.md)
 * [최소 공통 조상(LCA)](https://github.com/HYEEWON/algorithm-study/blob/main/tree/lca.md)
+* [트라이 (Trie)](https://github.com/HYEEWON/algorithm-study/blob/main/tree/trie.md)
 
 <br>
 
@@ -52,5 +53,4 @@
   * [이진 트리](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md#이진-트리-Binary-Tree)
   * [힙](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md#힙-Heap)
   * [우선순위 큐](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md#우선순위-큐-Priority-Queue)
-  * [트라이](https://github.com/HYEEWON/algorithm-study/blob/main/data-structure/tree.md#트라이-Trie)
 * 그래프
