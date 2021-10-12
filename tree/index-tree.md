@@ -56,4 +56,17 @@ public static long query(int left, int right) {
         result += tree[left];
     return result;
 }
+
+public static int findIndex(int kth) {
+    int idx = 1;
+
+    while (idx < offset) {
+        idx <<= 1;
+        if (tree[idx] < kth) {
+            kth -= tree[idx];
+            idx++;
+        }
+    }
+    return idx - offset;
+}
 ```
