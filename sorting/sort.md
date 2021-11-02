@@ -76,9 +76,9 @@ public static void quickSort(int low, int high) {
     // 원소가 1개인 경우
     if (low >= high) return;
 
-    int mid = partition(low, high);
-    quickSort(low, mid-1);
-    quickSort(mid+1, high);
+    int pivot = partition(low, high);
+    quickSort(low, pivot-1);
+    quickSort(pivot+1, high);
 }
 
 public static int partition(int low, int high) {
